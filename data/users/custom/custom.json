@@ -1,12 +1,12 @@
 {
-  "ffc07081-188f-45ba-b0d5-22eca3f7f323: {
+  "ffc07081-188f-45ba-b0d5-22eca3f7f323": {
     "nametags": {
       "name": "♚TheForgottenKing☭",
-      "text": "DARK_BLUE",
-      "border": "LIGHT_BLUE"
+      "text": "LIGHT_PURPLE",
+      "border": "LIGHT_PURPLE"
     },
     "esp": {
-      "color": "BLUE"
+      "color": "LIGHT_PURPLE"
     }
   }
 }
